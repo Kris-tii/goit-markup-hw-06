@@ -658,10 +658,11 @@ margin-left: 24px;
 }
 
 .footer-subscribe-icon{
-    position: absolute;
+    /* position: absolute; */
 fill: var(--main-white-color);
-top: 50%;
-transform: translateY(-50%);
+/* top: 50%; */
+/* transform: translateY(-50%); */
+margin-left: 16px;
 }
 
 .email{
