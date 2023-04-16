@@ -843,4 +843,5 @@ fill: transparent;
 
 .privacy-text{
 color: var(--main-blue-color);
+margin-left: 4px;
 }
